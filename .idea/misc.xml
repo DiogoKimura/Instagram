@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/drawable/edit_text_background.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_insta_heart.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_insta_home.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_insta_profile_thin.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_insta_search.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_insta_send.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
       </map>
     </option>
