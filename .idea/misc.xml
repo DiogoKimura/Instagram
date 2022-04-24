@@ -12,6 +12,13 @@
         <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_insta_send.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/layout/button_loading.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/layout/dialog_custom.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_register_email.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_register_name_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_register_photo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Diogo/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_register_welcome.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
